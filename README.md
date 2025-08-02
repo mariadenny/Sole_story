@@ -15,16 +15,15 @@ https://mariadenny.github.io/Sole_story/
 
 
 
+```
 solestory/
-│
 ├── index.html          # Loader page (landing transition)
 ├── home.html           # Main homepage with scrollable content
 ├── styles.css          # All custom styles
 ├── script.js           # Interactions and animations
-├── assets              # images or fonts
+├── assets/             # Images or fonts
 └── README.md
-
-`
+```
 
 ---
 
@@ -78,7 +77,9 @@ Just open `index.html` in your favorite browser.
 * Built with: HTML, CSS, JavaScript
 * Images: 
 <img width="1800" height="630" alt="Screenshot 2025-08-02 203648" src="https://github.com/user-attachments/assets/bed6e89f-1701-46b3-9a3b-71ce8a7b58bf" />
-
+<img width="1821" height="728" alt="Screenshot 2025-08-02 203704" src="https://github.com/user-attachments/assets/e3125d79-2de6-4d5e-b7e4-c1e9c1389196" />
+<img width="1807" height="783" alt="Screenshot 2025-08-02 203726" src="https://github.com/user-attachments/assets/da0a6609-f170-4ccb-9482-ac9b78c807b3" />
+<img width="1846" height="755" alt="Screenshot 2025-08-02 203744" src="https://github.com/user-attachments/assets/4abeb77f-bdca-46e0-9393-7ae762ae55d0" />
 ---
 
 ## 🏁 Future Enhancements
